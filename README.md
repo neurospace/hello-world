@@ -1,2 +1,2 @@
 # hello-world
-Hello world tutorial
+This is my first commit to the Hello world tutorial
